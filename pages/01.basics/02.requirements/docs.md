@@ -1,12 +1,7 @@
 ---
 title: Requirements
 taxonomy:
-    category:
-        - docs
-    tag:
-        - tag1
-        - tag2
-visible: true
+    category: docs
 ---
 
 Lorem markdownum pius. Missa ultra adhuc ait reverti ubi soporem, **tibi iam**,
