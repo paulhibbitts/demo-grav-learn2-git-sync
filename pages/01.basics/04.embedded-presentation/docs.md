@@ -6,4 +6,5 @@ taxonomy:
 visible: true
 ---
 
+Embedded Presentation
 [presentation="presentations/placeholder-slides"]
