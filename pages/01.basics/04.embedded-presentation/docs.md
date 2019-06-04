@@ -1,8 +1,9 @@
 ---
-title: Embedded Presentation
+title: 'Embedded Presentation'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
-Example Embedded Presentation  
-[presentation="presentations/placeholder-slide"]
+[presentation="presentations/placeholder-slides"]
