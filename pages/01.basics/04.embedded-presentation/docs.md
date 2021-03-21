@@ -4,6 +4,7 @@ taxonomy:
     category:
         - docs
 visible: true
+published: false
 ---
 
 Embedded Presentation
