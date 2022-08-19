@@ -7,6 +7,6 @@ child_type: docs
 
 ### Chapter 1
 
-# Basics
+# MP test
 
 Discover the **basic** principles
